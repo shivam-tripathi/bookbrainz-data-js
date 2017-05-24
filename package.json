@@ -67,7 +67,7 @@
     "eslint": "^3.3.0",
     "eslint-plugin-import": "^2.2.0",
     "istanbul": "^0.4.2",
-    "mocha": "^3.0.2",
+    "mocha": "^3.4.2",
     "node-uuid": "^1.4.7",
     "rimraf": "^2.6.1"
   }
